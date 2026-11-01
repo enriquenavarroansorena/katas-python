@@ -1,0 +1,12 @@
+﻿# Notas de trabajo internas (no forman parte de la entrega)
+_contexto/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Sistema
+Thumbs.db
+desktop.ini
